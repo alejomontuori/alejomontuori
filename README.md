@@ -1,12 +1,12 @@
 <h1> 👋 Hola, soy Alejo Montuori </h1>
-<p>Soy una persona proactiva y persistente, con gran capacidad de adaptación y comunicación. Disfruto trabajar en equipo y aprender de cada experiencia. Me motiva enfrentar desafíos que me permitan crecer como desarrollador y aportar soluciones de valor a los proyectos en los que participo</p>
+<p>Soy una persona proactiva y persistente, con gran capacidad de adaptación y comunicación. Disfruto trabajar en equipo y aprender de cada experiencia. Me motiva enfrentar desafíos que me permitan crecer como desarrollador y aportar soluciones de valor a los proyectos en los que participo.</p>
 
 - 🌱 Actualmente aprendiendo:
   - Java
   - Spring Boot
   - AWS
 - 📩 Comunicate conmigo: <a href="Alejomontuori12@gmail.com">Alejomontuori12@gmail.com</a>
-- 💼 Mi portfolio: https://mi-portfolio-alejo.vercel.app/
+- 💼 Mi portfolio: https://mi-portfolio-alejo.vercel.app/ 
 
 ## <h3> Mis habilidades: </h3> 
 
