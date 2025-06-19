@@ -41,7 +41,7 @@
  
 </span>
 
-<h4> Otras tecnologias y herraminetas </h4>
+<h4> Otras tecnologias y herraminetas: </h4>
 <span>
   <!-- SQL Server -->
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
@@ -57,10 +57,10 @@
 
 </span>
 
-## <h3>Proyectos</h3>
+## <h3> Proyectos: </h3>
 
 <div>
-  <h5>🖼️ MuseoApp</h5>
+  <h4>🖼️ MuseoApp</h4>
   <p>
     🔗 <a href="https://github.com/Belen-Humbert/Museo-App-Nuevo.git" target="_blank">Repositorio</a>
   </p>
@@ -73,7 +73,7 @@
 
 <!-- E-commerce -->
 <div>
-  <h3>🛒 E-commerce</h3>
+  <h4>🛒 E-commerce</h4>
   <p>
     🔗 <a href="https://github.com/Belen-Humbert/proyectoDjango.git" target="_blank">Repositorio</a>
   </p>
@@ -86,7 +86,7 @@
 
 <!-- AuditaWeb -->
 <div>
-  <h3>📊 Proyecto AuditaWeb (Interfaces)</h3>
+  <h4>📊 Proyecto AuditaWeb (Interfaces)</h4>
   <p>
     🔗 <a href="https://github.com/Belen-Humbert/proyecto-interfaces.git" target="_blank">Repositorio</a>
   </p>
