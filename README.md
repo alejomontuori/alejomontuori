@@ -8,7 +8,7 @@
 - 📩 Comunicate conmigo: <a href="Alejomontuori12@gmail.com">Alejomontuori12@gmail.com</a>
 - 💼 Mi portfolio: https://mi-portfolio-alejo.vercel.app/
 
-<h3> Mis habilidades: </h3> 
+## <h3> Mis habilidades: </h3> 
 
 <h4> Lenguajes </h4>
 <span>
@@ -57,3 +57,41 @@
 
 </span>
 
+## <h3>Proyectos</h3>
+
+<div>
+  <h5>🖼️ MuseoApp</h5>
+  <p>
+    🔗 <a href="https://github.com/Belen-Humbert/Museo-App-Nuevo.git" target="_blank">Repositorio</a>
+  </p>
+  <p>
+    <strong>Tecnologías:</strong> JavaScript, Node.js, Express.js y Tailwind CSS.
+  </p>
+</div>
+
+<hr>
+
+<!-- E-commerce -->
+<div>
+  <h3>🛒 E-commerce</h3>
+  <p>
+    🔗 <a href="https://github.com/Belen-Humbert/proyectoDjango.git" target="_blank">Repositorio</a>
+  </p>
+  <p>
+    <strong>Tecnologías:</strong> Python, Django, SQLite, Tailwind CSS y CSS puro.
+  </p>
+</div>
+
+<hr>
+
+<!-- AuditaWeb -->
+<div>
+  <h3>📊 Proyecto AuditaWeb (Interfaces)</h3>
+  <p>
+    🔗 <a href="https://github.com/Belen-Humbert/proyecto-interfaces.git" target="_blank">Repositorio</a>
+  </p>
+  <p>
+    Proyecto académico centrado en el análisis de interfaces y experiencia de usuario.<br>
+    <strong>Tecnologías:</strong> HTML, CSS modules, React, JS, diseño UI/UX
+  </p>
+</div>
